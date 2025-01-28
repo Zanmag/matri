@@ -156,17 +156,6 @@
         border: none;
     }
 
-    .list a {
-        color: rgb(50, 89, 88);
-        font-weight: 600;
-        text-decoration: none;
 
-    }
-
-    .list a:hover {
-        text-decoration: underline;
-        background-color: rgb(50, 89, 88);
-        color: white;
-    }
 
 
