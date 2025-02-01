@@ -99,7 +99,7 @@
     }
 
     .ceremonia-container {
-        background-color: rgb(168, 184, 184);
+        background-color: whitesmoke;
         height: 80dvh;
         display: grid;
         grid-template-columns: 1fr 1fr;
