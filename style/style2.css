@@ -90,7 +90,7 @@
 
     .regresar {
         position: fixed;
-        background-color: whitesmoke;
+        background-color: rgb(89, 124, 82);
         border: none;
 
 
@@ -98,8 +98,13 @@
 
     .regresar a{
         font-size: large;
+        color: white;
     }
 
+
+    .regresar a:hover{
+        background-color: rgb(50, 89, 88);
+    }
 
     h1 {
         padding-top: 5%;
